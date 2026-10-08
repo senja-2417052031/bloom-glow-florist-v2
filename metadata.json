@@ -1,0 +1,6 @@
+{
+  "name": "Bloom & Glow Florist",
+  "description": "E-Commerce dan Sistem Informasi Manajemen Toko Bunga Bloom & Glow Florist untuk Studi Kasus Sistem Informasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
